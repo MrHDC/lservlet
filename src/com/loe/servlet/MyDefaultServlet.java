@@ -36,4 +36,4 @@ public class MyDefaultServlet extends HttpServlet {
 		doGet(request, response);
 	}
 
-}
+}   
