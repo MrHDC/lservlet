@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
 encoding//WebContent/demo/javaInHtml.jsp=UTF-8
+encoding//src/com/loe/beans/HelloBean.java=UTF-8
 encoding//src/com/loe/serlvet/filter/ImageFilter.java=UTF-8
 encoding//src/com/loe/servlet/ForwardDemoServlet.java=UTF-8
 encoding//src/com/loe/servlet/RedirectDemoServlet.java=UTF-8

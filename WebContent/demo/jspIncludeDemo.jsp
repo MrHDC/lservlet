@@ -4,17 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>jsp</title>
+<title>jspIncludeDemo</title>
 </head>
 <body>
-	<h1>hello jsp</h1>
-	<%
-		java.util.Date date = new java.util.Date();
-	%>
-
-	<h2>
-		now is:
-		<%= date.toString()  %>
-	</h2>
+	<h2>JSP Action jsp:include demo:</h2>
+	<jsp:include page="../fragment/dateTime.jsp"></jsp:include>
 </body>
 </html>
